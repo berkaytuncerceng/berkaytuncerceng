@@ -4,7 +4,7 @@ I am **Berkay Tuncer**, 4th year student at Izmir Bakırçay University with 3.4
 
 - 🌱 I’m currently learning **ASP.NET Core 9.0**
 - 📧 How to reach me: **berkaytuncer.ceng@gmail.com**
-- 💼 Know about my experiences: [[LinkedIn Profil Linkini Ekle](https://www.linkedin.com/in/username/)](https://www.linkedin.com/in/berkay-tuncer/)
+- 💼 Know about my experiences: (https://www.linkedin.com/in/username/)](https://www.linkedin.com/in/berkay-tuncer/)
 - ✍️ Sometimes I write articles on https://medium.com/@berkaytuncerceng
 
 ---
