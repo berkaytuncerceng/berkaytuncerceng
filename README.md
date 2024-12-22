@@ -2,7 +2,7 @@
 
 I am **Berkay Tuncer**, a 4th-year student at Izmir Bakırçay University with a 3.47 GPA. I have always believed in and focused on research and development, as I believe this is the key to the future. Web development, Data Science, Machine Learning, and Image Processing have caught my interest. I am currently developing applications in .NET 9.0. I have completed projects in these areas and uploaded them to Github.
 
-- 🌱 I’m currently learning **ASP.NET Core 9.0**
+- 🌱 I’m currently learning how to design **better architectures** for **web development** using **ASP.NET Core 9.0** and exploring advancements in **Machine Learning**.
 - 📧 How to reach me: **berkaytuncer.ceng@gmail.com**
 - 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/berkay-tuncer/)
 - ✍️ Sometimes I write articles on [Medium](https://medium.com/@berkaytuncerceng)
