@@ -26,7 +26,7 @@ I am Berkay Tuncer, a 4th-year student at Izmir Bakırçay University with a 3.4
     <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </div>
----
+
 ### Python Libraries:
 <div align="center">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
